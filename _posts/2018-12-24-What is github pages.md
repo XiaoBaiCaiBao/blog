@@ -1,0 +1,13 @@
+---
+title: What is github pages
+layout: post
+categories: ''
+tags: ''
+---
+If you are a software developer.Github helps you built up all sorts of great things.Things that help people, things can (8s) you a job, things can change the world.And somethings that might not.So how do you tell the world about all the great things you're building? Billboards, (direct mail 20s).These days you build the website, and there are lots of options are there.But so many all these options can be (over ming 28s).Even for someone who develope software already(?).
+
+Github Pages let you turn github repositories into elegent websites to show case your (profile), your projects,your documentation,or anything else you wanna share with the world.There are no databases to set up and no servers to configure.In many cases you don't even have to know html.Everything just works.If you already using github,it's the most directive path to create a website for you and your projects.
+
+So, how does it work?While, github serves all of your project sites from a personal url,(tity 1'04)year,username or organazation.Github looks for web (content) for your project on a special (brage 1'10) ??? for this brain just seperate from your code .But you can also create a site for your self for your organazation by creating your repository with your github pages url as its name, and adding web content its master (brage1'26).You can even drag and drop your files straight into your browser to upload it.Now, If you wanna to built something a bit more ambitions,like a blog and a structure documentation,github give you a stream line to publishing experence with the help of jekyll.
+
+1.40 Jekyll is an open source tool that transforms plain text files into websites. But it also support things like varibles, templates and drafts which give you more control of the format and presentation of your site.Now no matter what (pasage )github pages let you treat your website content with the same level of care as the source code and all of your projects.Because your websites files are part of github repository,you can maintain them using the same family of tools and workflow you already use on github.2'09.You can use the github flow to manage the change to your website.You can even write texts and have github reports to step it back before merging those changes.When you ready to publish changes,,just merge the (man?).Github This is for you up to instead to worry about how you getting up everyone it's browser
